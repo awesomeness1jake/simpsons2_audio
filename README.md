@@ -8,7 +8,7 @@ Audio files need to be cleaned (contains data from my testing :P)
 ## Speech
 * HOMER - Homer | Unfinished
 * MRG - Marge | Unfinished
-* COLLECT_SFX - Collect Sound Fx | Finished
+* COLLECT_SOUNDFX - Collect Sound Fx | Finished
 * SIMPSONS2_GAMEPLAY - Gameplay Sound Fx for Simpsons | Unfinished [missing sounds]
 
 ## Music
