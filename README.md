@@ -27,7 +27,7 @@ Audio files need to be cleaned (contains data from my testing :P)
 ## research
 ```
   Oddities
-  -Speech Audio had to be done through openIV using flag "DescriptorsInOrder True".
+  -Speech Audio had to be done through openIV using flag "DescriptorsInOrder True" without that flag the audio wouldn't play.
   -The Speech AWCs cannot be opened on Codewalker
   
   Adding speech
