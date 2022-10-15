@@ -27,7 +27,7 @@ Audio files need to be cleaned (contains data from my testing :P)
 ## research
 ```
   Oddities
-  -Speech Audio had to be done through openIV using flag "DescriptorsInOrder True", whenever it was done through Codewalker the game would crash, or not load the audio.
+  -Speech Audio had to be done through openIV using flag "DescriptorsInOrder True".
   -The Speech AWCs cannot be opened on Codewalker
   
   Adding speech
