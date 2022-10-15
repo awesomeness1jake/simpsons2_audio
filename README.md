@@ -25,9 +25,10 @@ simpsons.
   voiceNameHash = atStringHash("homer")
   speechContextHash = atStringHash("generic_hi") -- dont include the "_%2d"
   speechHashShitIdk = voiceNameHash ^= speechContextHash
+  
   In Codewalker
   <Item type="ByteArray">
-   <Name>speechHashShitIdk</Name>
+   <Name>speechHashShitIdk</Name> make sure it is in hex
    <RawData>01 01 00</RawData> -- the first number is how many speech contexts there are ie: generic_hi_01, generic_hi_02 etc, the next one is the "container id". third value no clue. Be aware that this is hex values and not normal integers
   </Item>
   Adding the voice
