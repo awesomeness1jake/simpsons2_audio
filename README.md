@@ -26,6 +26,10 @@ Audio files need to be cleaned (contains data from my testing :P)
 
 ## research
 ```
+  Oddities
+  Speech Audio had to be done through openIV, whenever it was done through Codewalker the game would crash, or not load the audio.
+  
+  
   Adding speech
   example - this can be done in CfxLua 5.4
   voiceNameHash = atStringHash("homer")
