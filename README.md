@@ -31,6 +31,7 @@ Audio files need to be cleaned (contains data from my testing :P)
   -The Speech AWCs cannot be opened on Codewalker
   
   Adding speech
+  I did not find out how the hashing was done. I found this from https://github.com/Parik27/V.Rainbomizer/blob/master/scripts/voice-line-gen.py#L52
   example - this can be done in CfxLua 5.4
   voiceNameHash = atStringHash("homer")
   speechContextHash = atStringHash("generic_hi") -- dont include the "_%2d"
