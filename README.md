@@ -4,14 +4,14 @@ simpsons.
 ### this isn't meant to have all the audio, this was mainly created from testing and having fun while doing so.
 
 ## Speech
-* HOMER - Homer | Unfinished
-* MRG - Marge | Unfinished
-* COLLECT_SOUNDFX - Collect Sound Fx | Finished
-* SIMPSONS2_GAMEPLAY - Gameplay Sound Fx for Simpsons | Unfinished [missing sounds]
+- HOMER - Homer | Unfinished
+- MRG - Marge | Unfinished
+- COLLECT_SOUNDFX - Collect Sound Fx | Finished
+- SIMPSONS2_GAMEPLAY - Gameplay Sound Fx for Simpsons | Unfinished [missing sounds]
 
 ## Music
-* SUNDAY_DRIVE | Finished
-* HIT_RUN | Finished
+- SUNDAY_DRIVE | Finished
+- HIT_RUN | Finished
 
 ## research
 ```
@@ -31,7 +31,7 @@ simpsons.
       Name
           Make sure it is in hex
       RawData
-          The first number is how many speech contexts there are ie: generic_hi_01, generic_hi_02 etc.
+          The first number is how many variations there are, ie: generic_hi_01, generic_hi_02 etc.
           The next one is the "container id". 
           Third value no clue. 
           Be aware that this is hex values and not normal integers
