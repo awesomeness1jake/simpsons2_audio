@@ -6,7 +6,7 @@ Version 1 11
 	{
 		WaveTrack w_hitp_hom_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -22,7 +22,7 @@ Version 1 11
 		}
 		WaveTrack w_hitp_hom_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -38,7 +38,7 @@ Version 1 11
 		}
 		WaveTrack enemy_killed_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -54,7 +54,7 @@ Version 1 11
 		}
 		WaveTrack enemy_killed_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -70,7 +70,7 @@ Version 1 11
 		}
 		WaveTrack enemy_killed_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -86,7 +86,7 @@ Version 1 11
 		}
 		WaveTrack enemy_killed_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -102,7 +102,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -118,7 +118,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -134,7 +134,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -150,7 +150,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -166,7 +166,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_05
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -182,7 +182,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_06
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -198,7 +198,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_07
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -214,7 +214,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_08
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -230,7 +230,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_09
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -246,7 +246,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_10
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -262,7 +262,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_11
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -278,7 +278,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_12
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -294,7 +294,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_13
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -310,7 +310,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_14
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -326,7 +326,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_15
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -342,7 +342,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_16
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -358,7 +358,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_17
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -374,7 +374,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_18
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -390,7 +390,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_19
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -406,7 +406,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_20
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -422,7 +422,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_21
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -438,7 +438,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_22
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -454,7 +454,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -470,7 +470,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -486,7 +486,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -502,7 +502,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -518,7 +518,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_05
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -534,7 +534,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_06
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -550,7 +550,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_07
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -566,7 +566,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_08
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -582,7 +582,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_09
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -598,7 +598,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_10
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -614,7 +614,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_11
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -630,7 +630,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_12
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -646,7 +646,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_13
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -662,7 +662,7 @@ Version 1 11
 		}
 		WaveTrack new_enemy_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -678,7 +678,7 @@ Version 1 11
 		}
 		WaveTrack new_enemy_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -694,7 +694,7 @@ Version 1 11
 		}
 		WaveTrack new_enemy_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -710,7 +710,7 @@ Version 1 11
 		}
 		WaveTrack new_enemy_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -726,7 +726,7 @@ Version 1 11
 		}
 		WaveTrack new_enemy_05
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -742,7 +742,7 @@ Version 1 11
 		}
 		WaveTrack fall_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -758,7 +758,7 @@ Version 1 11
 		}
 		WaveTrack fall_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -774,7 +774,7 @@ Version 1 11
 		}
 		WaveTrack fall_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -790,7 +790,7 @@ Version 1 11
 		}
 		WaveTrack fall_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -806,7 +806,7 @@ Version 1 11
 		}
 		WaveTrack fall_05
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -822,7 +822,7 @@ Version 1 11
 		}
 		WaveTrack near_miss_vehicle_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -838,7 +838,7 @@ Version 1 11
 		}
 		WaveTrack near_miss_vehicle_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -854,7 +854,7 @@ Version 1 11
 		}
 		WaveTrack near_miss_vehicle_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -870,7 +870,7 @@ Version 1 11
 		}
 		WaveTrack near_miss_vehicle_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -886,7 +886,7 @@ Version 1 11
 		}
 		WaveTrack near_miss_vehicle_05
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -902,7 +902,7 @@ Version 1 11
 		}
 		WaveTrack near_miss_vehicle_06
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -918,7 +918,7 @@ Version 1 11
 		}
 		WaveTrack crash_car_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -934,7 +934,7 @@ Version 1 11
 		}
 		WaveTrack crash_car_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -950,7 +950,7 @@ Version 1 11
 		}
 		WaveTrack crash_car_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -966,7 +966,7 @@ Version 1 11
 		}
 		WaveTrack crash_car_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -982,7 +982,7 @@ Version 1 11
 		}
 		WaveTrack crash_car_05
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -998,7 +998,7 @@ Version 1 11
 		}
 		WaveTrack crash_car_06
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1014,7 +1014,7 @@ Version 1 11
 		}
 		WaveTrack crash_car_07
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1030,7 +1030,7 @@ Version 1 11
 		}
 		WaveTrack crash_car_08
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1046,7 +1046,7 @@ Version 1 11
 		}
 		WaveTrack generic_curse_high_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1062,7 +1062,7 @@ Version 1 11
 		}
 		WaveTrack generic_curse_high_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1078,7 +1078,7 @@ Version 1 11
 		}
 		WaveTrack generic_curse_high_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1094,7 +1094,7 @@ Version 1 11
 		}
 		WaveTrack generic_curse_high_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1110,7 +1110,7 @@ Version 1 11
 		}
 		WaveTrack generic_curse_high_05
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1126,7 +1126,7 @@ Version 1 11
 		}
 		WaveTrack generic_curse_high_06
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1142,7 +1142,7 @@ Version 1 11
 		}
 		WaveTrack generic_curse_high_07
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1158,7 +1158,7 @@ Version 1 11
 		}
 		WaveTrack generic_curse_med_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1174,7 +1174,7 @@ Version 1 11
 		}
 		WaveTrack generic_curse_med_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1190,7 +1190,7 @@ Version 1 11
 		}
 		WaveTrack generic_curse_med_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1206,7 +1206,7 @@ Version 1 11
 		}
 		WaveTrack generic_curse_med_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1222,7 +1222,7 @@ Version 1 11
 		}
 		WaveTrack generic_curse_med_05
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1238,7 +1238,7 @@ Version 1 11
 		}
 		WaveTrack generic_curse_med_06
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1254,7 +1254,7 @@ Version 1 11
 		}
 		WaveTrack generic_curse_med_07
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1270,7 +1270,7 @@ Version 1 11
 		}
 		WaveTrack hit_by_player_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1286,7 +1286,7 @@ Version 1 11
 		}
 		WaveTrack hit_by_player_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1302,7 +1302,7 @@ Version 1 11
 		}
 		WaveTrack hit_by_player_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1318,7 +1318,7 @@ Version 1 11
 		}
 		WaveTrack hit_by_player_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1334,7 +1334,7 @@ Version 1 11
 		}
 		WaveTrack hit_by_player_05
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1350,7 +1350,7 @@ Version 1 11
 		}
 		WaveTrack hit_by_player_06
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1366,7 +1366,7 @@ Version 1 11
 		}
 		WaveTrack hit_by_player_07
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1382,7 +1382,7 @@ Version 1 11
 		}
 		WaveTrack hit_by_player_08
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1398,7 +1398,7 @@ Version 1 11
 		}
 		WaveTrack hit_by_player_09
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1414,7 +1414,7 @@ Version 1 11
 		}
 		WaveTrack shot_by_player_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1430,7 +1430,7 @@ Version 1 11
 		}
 		WaveTrack shot_by_player_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1446,7 +1446,7 @@ Version 1 11
 		}
 		WaveTrack shot_by_player_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1462,7 +1462,7 @@ Version 1 11
 		}
 		WaveTrack shot_by_player_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1478,7 +1478,7 @@ Version 1 11
 		}
 		WaveTrack shot_by_player_05
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1494,7 +1494,7 @@ Version 1 11
 		}
 		WaveTrack generic_hi_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1510,7 +1510,7 @@ Version 1 11
 		}
 		WaveTrack got_in_car_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1526,7 +1526,7 @@ Version 1 11
 		}
 		WaveTrack got_in_car_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1542,7 +1542,7 @@ Version 1 11
 		}
 		WaveTrack got_in_car_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1558,7 +1558,7 @@ Version 1 11
 		}
 		WaveTrack got_in_car_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1574,7 +1574,7 @@ Version 1 11
 		}
 		WaveTrack vehicle_jump_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1590,7 +1590,7 @@ Version 1 11
 		}
 		WaveTrack vehicle_jump_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1606,7 +1606,7 @@ Version 1 11
 		}
 		WaveTrack vehicle_jump_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1622,7 +1622,7 @@ Version 1 11
 		}
 		WaveTrack vehicle_jump_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1638,7 +1638,7 @@ Version 1 11
 		}
 		WaveTrack vehicle_jump_05
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1654,7 +1654,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_driven_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1670,7 +1670,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_driven_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1686,7 +1686,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_driven_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1702,7 +1702,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_driven_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1718,7 +1718,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_driven_05
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1734,7 +1734,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_driven_06
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1750,7 +1750,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_driven_07
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1766,7 +1766,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_driven_08
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1782,7 +1782,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_driven_09
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1798,7 +1798,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_driven_10
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1814,7 +1814,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_driven_11
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1830,7 +1830,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_driven_12
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1846,7 +1846,7 @@ Version 1 11
 		}
 		WaveTrack crash_generic_driven_13
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1862,7 +1862,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_driven_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1878,7 +1878,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_driven_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1894,7 +1894,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_driven_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1910,7 +1910,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_driven_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1926,7 +1926,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_driven_05
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1942,7 +1942,7 @@ Version 1 11
 		}
 		WaveTrack car_hit_ped_driven_06
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1958,7 +1958,7 @@ Version 1 11
 		}
 		WaveTrack dodge_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1974,7 +1974,7 @@ Version 1 11
 		}
 		WaveTrack dodge_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -1990,7 +1990,7 @@ Version 1 11
 		}
 		WaveTrack dodge_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2006,7 +2006,7 @@ Version 1 11
 		}
 		WaveTrack dodge_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2022,7 +2022,7 @@ Version 1 11
 		}
 		WaveTrack dodge_05
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2038,7 +2038,7 @@ Version 1 11
 		}
 		WaveTrack dodge_06
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2054,7 +2054,7 @@ Version 1 11
 		}
 		WaveTrack aimed_at_by_player_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2070,7 +2070,7 @@ Version 1 11
 		}
 		WaveTrack aimed_at_by_player_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2086,7 +2086,7 @@ Version 1 11
 		}
 		WaveTrack aimed_at_by_player_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2102,7 +2102,7 @@ Version 1 11
 		}
 		WaveTrack aimed_at_by_player_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2118,7 +2118,7 @@ Version 1 11
 		}
 		WaveTrack aimed_at_by_player_05
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2134,7 +2134,7 @@ Version 1 11
 		}
 		WaveTrack aimed_at_by_player_06
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2150,7 +2150,7 @@ Version 1 11
 		}
 		WaveTrack aimed_at_by_player_07
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2166,7 +2166,7 @@ Version 1 11
 		}
 		WaveTrack generic_shocked_med_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2182,7 +2182,7 @@ Version 1 11
 		}
 		WaveTrack generic_shocked_med_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2198,7 +2198,7 @@ Version 1 11
 		}
 		WaveTrack generic_shocked_med_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2214,7 +2214,7 @@ Version 1 11
 		}
 		WaveTrack generic_shocked_med_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2230,7 +2230,7 @@ Version 1 11
 		}
 		WaveTrack generic_shocked_med_05
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2246,7 +2246,7 @@ Version 1 11
 		}
 		WaveTrack generic_shocked_med_06
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2262,7 +2262,7 @@ Version 1 11
 		}
 		WaveTrack shoot_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2278,7 +2278,7 @@ Version 1 11
 		}
 		WaveTrack shoot_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2294,7 +2294,7 @@ Version 1 11
 		}
 		WaveTrack shoot_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2310,7 +2310,7 @@ Version 1 11
 		}
 		WaveTrack shoot_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2326,7 +2326,7 @@ Version 1 11
 		}
 		WaveTrack shoot_05
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2342,7 +2342,7 @@ Version 1 11
 		}
 		WaveTrack low_on_stamina_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2358,7 +2358,7 @@ Version 1 11
 		}
 		WaveTrack low_on_stamina_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2374,7 +2374,7 @@ Version 1 11
 		}
 		WaveTrack low_on_stamina_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2390,7 +2390,7 @@ Version 1 11
 		}
 		WaveTrack low_on_stamina_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2406,7 +2406,7 @@ Version 1 11
 		}
 		WaveTrack get_out_of_car_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2422,7 +2422,7 @@ Version 1 11
 		}
 		WaveTrack get_out_of_car_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2438,7 +2438,7 @@ Version 1 11
 		}
 		WaveTrack get_out_of_car_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2454,7 +2454,7 @@ Version 1 11
 		}
 		WaveTrack get_out_of_car_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2470,7 +2470,7 @@ Version 1 11
 		}
 		WaveTrack burnout_01
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2486,7 +2486,7 @@ Version 1 11
 		}
 		WaveTrack burnout_02
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2502,7 +2502,7 @@ Version 1 11
 		}
 		WaveTrack burnout_03
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
@@ -2518,7 +2518,7 @@ Version 1 11
 		}
 		WaveTrack burnout_04
 		{
-			Compression ADPCM
+			Compression PCM
 			Headroom -20000
 			LoopPoint -1
 			LoopBegin 0
