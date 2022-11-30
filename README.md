@@ -2,7 +2,7 @@
 simpsons.
 
 ### this isn't meant to have all the audio, this was mainly created from testing and having fun while doing so.
-#### sorry for the wonky naming conventions of certain speeches, and how some speech is used incorrectly. you may notice homer has way more dialogue, this way due to me testing more with homer and being lazy with adding more for marge as it is currently a bit time consuming and I am currently trying to find a better solution to potentially "automate" this.
+sorry for the wonky naming conventions of certain speeches, and how some speech is used incorrectly. you may notice homer has way more dialogue, this way due to me testing more with homer and being lazy with adding more for marge as it is currently a bit time consuming and I am currently trying to find a better solution to potentially "automate" this.
 
 ## Speech
 - HOMER - Homer | Unfinished
@@ -22,14 +22,21 @@ simpsons.
 
   ### Getting the speech hash thing (idk what this would be called)
   #### I did not find out how the hashing was done. I found this from https://github.com/Parik27/V.Rainbomizer/blob/master/scripts/voice-line-gen.py#L52
-  #### example - this can be done in CfxLua 5.4
+  #### example - Lua
   ```lua
   voiceNameHash = joaat("homer")
   speechContextHash = joaat("generic_hi") -- dont include the "_%2d"
-  speechHashShitIdk = voiceNameHash ^= speechContextHash; -- in hex (b445c9b3)
+  speechHashShitIdk = (voiceNameHash ~ speechContextHash); -- in hex (b445c9b3)
+  ```
+  #### example - CS
+  ```cs
+  voiceNameHash = joaat("homer")
+  speechContextHash = joaat("generic_hi") // dont include the "_%2d"
+  speechHashShitIdk = (voiceNameHash ^ speechContextHash); // in hex (b445c9b3)
   ```
 
 # In Codewalker
+   ### This should be done preferably in a file named "*_speech.dat4.rel.xml" as it might lead to the bad
    ## Adding the speech
    ```xml 
    Name
