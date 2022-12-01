@@ -1,8 +1,8 @@
 # simpsons2_audio
 simpsons.
 
-### this isn't meant to have all the audio, this was mainly created from testing and having fun while doing so.
-sorry for the wonky naming conventions of certain speeches, and how some speech is used incorrectly. you may notice homer has way more dialogue, this way due to me testing more with homer and being lazy with adding more for marge as it is currently a bit time consuming and I am currently trying to find a better solution to potentially "automate" this.
+### this is used for the "simpsons_music_player", and was mainly created from testing and having fun while doing so.
+Sorry for the wonky naming conventions of certain speeches, and how some voicelines are used incorrectly.
 
 ## Speech
 - HOMER - Homer | Unfinished
@@ -17,7 +17,7 @@ sorry for the wonky naming conventions of certain speeches, and how some speech 
 # Research
 
   ### Oddities
-  - Speech Audio had to be done through openIV using flag "DescriptorsInOrder True" without that flag the audio wouldn't play.
+  - Speech AWCs had to be done through openIV using flag "DescriptorsInOrder True" without that flag the audio wouldn't play.
   - The Speech AWCs cannot be opened on Codewalker
 
   ### Getting the speech hash thing (idk what this would be called)
@@ -69,8 +69,8 @@ sorry for the wonky naming conventions of certain speeches, and how some speech 
    Name
           This is the "container id", starting from 0
    ContainerHash
-          The AWC Directory
-   
+          The AWC Directory   
+
    <Item type="Container" ntOffset="0">
       <Name>1</Name> 
       <ContainerHash>dlc_sp_sounds/homer_simpson</ContainerHash>
