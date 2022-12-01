@@ -30,9 +30,9 @@ Sorry for the wonky naming conventions of certain speeches, and how some voiceli
   ```
   #### example - CS
   ```cs
-  voiceNameHash = joaat("homer")
-  speechContextHash = joaat("generic_hi") // dont include the "_%2d"
-  speechHashShitIdk = (voiceNameHash ^ speechContextHash); // in hex (b445c9b3)
+  uint voiceNameHash = joaat("homer");
+  uint speechContextHash = joaat("generic_hi"); // dont include the "_%2d"
+  uint speechHashShitIdk = (voiceNameHash ^ speechContextHash); // in hex (b445c9b3)
   ```
 
 # In Codewalker
