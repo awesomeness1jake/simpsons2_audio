@@ -33,7 +33,6 @@ This is used for the "simpsons_music_player", and was mainly created from testin
   ```
 
 # In Codewalker
-   ### This should be done preferably in a file named "*_speech.dat4.rel.xml" as it might lead to the bad
    ## Adding the speech
    ```xml 
    Name
