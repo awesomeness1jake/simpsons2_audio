@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat4>
+ <Version value="23982542" />
+ <ContainerPaths>
+  <Item>SIMPSONS2\HOM</Item>
+  <Item>SIMPSONS2\MRG</Item>
+  <Item>SIMPSONS2\FRK</Item>
+  <Item>SIMPSONS2\MOE</Item>
+  <Item>SIMPSONS2\BART</Item>
+ </ContainerPaths>
+ <Items>
+  <Item type="ByteArray">
+   <Name>a04de0b6</Name> <!-- hom low_on_stamina -->
+   <RawData>05 00 00</RawData> <!-- 05 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>537455f0</Name> <!-- hom car_hit_ped -->
+   <RawData>05 00 00</RawData> <!-- 05 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>37ff381d</Name> <!-- hom enemy_killed -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2060773d</Name> <!-- hom collect_object -->
+   <RawData>06 00 00</RawData> <!-- 06 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f57b1fa6</Name> <!-- hom mission_victory -->
+   <RawData>08 00 00</RawData> <!-- 08 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9b3d5ddd</Name> <!-- hom arrive_at_destination -->
+   <RawData>06 00 00</RawData> <!-- 06 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f465181</Name> <!-- hom greet_generic -->
+   <RawData>03 00 00</RawData> <!-- 03 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>226f9b26</Name> <!-- hom get_out_of_car -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2c19f055</Name> <!-- hom big_air -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9b3d5ddd</Name> <!-- hom arrive_at_destination -->
+   <RawData>03 00 00</RawData> <!-- 03 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5dc58270</Name> <!-- hom mission_fail -->
+   <RawData>06 00 00</RawData> <!-- 06 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b2b0393f</Name> <!-- hom knock_over_ped -->
+   <RawData>08 00 00</RawData> <!-- 08 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d8a61e82</Name> <!-- hom ask_for_food -->
+   <RawData>06 00 00</RawData> <!-- 06 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>46c52640</Name> <!-- hom player_car_destroyed -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f79d61d2</Name> <!-- hom w_hitbyc -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8d74c68a</Name> <!-- hom running_out_of_time -->
+   <RawData>02 00 00</RawData> <!-- 02 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>cdf8ef82</Name> <!-- hom damage_car -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>65cbfc5a</Name> <!-- hom hit_by_car -->
+   <RawData>08 00 00</RawData> <!-- 08 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4864c2e3</Name> <!-- hom activate_world_object -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5dc3133</Name> <!-- hom springboard -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>63e0947f</Name> <!-- hom get_into_car -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9dc678cf</Name> <!-- hom break_camera -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>bfaa5e44</Name> <!-- hom burnout -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>bfaa5e44</Name> <!-- hom burnout -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9572c90b</Name> <!-- hom car_destroyed -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8d74c68a</Name> <!-- hom running_out_of_time -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d4c26713</Name> <!-- hom race_rankup -->
+   <RawData>05 00 00</RawData> <!-- 05 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f2667b11</Name> <!-- hom hit_by_player -->
+   <RawData>0D 00 00</RawData> <!-- 13 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>bbf353ef</Name> <!-- hom near_hit_by_player -->
+   <RawData>05 00 00</RawData> <!-- 05 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>bc89c836</Name> <!-- hom hit_breakable -->
+   <RawData>05 00 00</RawData> <!-- 05 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7c15f2f</Name> <!-- hom new_enemy -->
+   <RawData>05 00 00</RawData> <!-- 05 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>acf7a8ca</Name> <!-- hom crash_generic -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4005c846</Name> <!-- hom mission_start -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3faec711</Name> <!-- hom near_miss_ped -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5dfddbe</Name> <!-- hom ride_reply -->
+   <RawData>0D 00 00</RawData> <!-- 13 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f10954dd</Name> <!-- hom collect_card -->
+   <RawData>05 00 00</RawData> <!-- 05 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>cdf8ef82</Name> <!-- hom damage_car -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>537455f0</Name> <!-- hom car_hit_ped -->
+   <RawData>08 00 00</RawData> <!-- 08 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>34076c1c</Name> <!-- hom crash_generic_driven -->
+   <RawData>06 00 00</RawData> <!-- 06 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>79d2b873</Name> <!-- hom fall -->
+   <RawData>05 00 00</RawData> <!-- 05 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>acf7a8ca</Name> <!-- hom crash_generic -->
+   <RawData>08 00 00</RawData> <!-- 08 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>34076c1c</Name> <!-- hom crash_generic_driven -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d4c26713</Name> <!-- hom race_rankup -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2fa2ac6d</Name> <!-- hom dodge -->
+   <RawData>06 00 00</RawData> <!-- 06 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3faec711</Name> <!-- hom near_miss_ped -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>70a655c</Name> <!-- hom race_rankdown -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>189f4dfd</Name> <!-- hom car_in_the_way -->
+   <RawData>06 00 00</RawData> <!-- 06 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7f8dad1c</Name> <!-- hom vehicle_jump -->
+   <RawData>05 00 00</RawData> <!-- 05 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2adf568b</Name> <!-- hom ask_for_ride -->
+   <RawData>05 00 00</RawData> <!-- 05 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c1d1e9ac</Name> <!-- hom wrong_door -->
+   <RawData>04 00 00</RawData> <!-- 04 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>bc89c836</Name> <!-- hom hit_breakable -->
+   <RawData>09 00 00</RawData> <!-- 09 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ca2aaa2e</Name> <!-- mrg low_on_stamina -->
+   <RawData>07 01 00</RawData> <!-- 07 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>39131f68</Name> <!-- mrg car_hit_ped -->
+   <RawData>06 01 00</RawData> <!-- 06 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5d987285</Name> <!-- mrg enemy_killed -->
+   <RawData>06 01 00</RawData> <!-- 06 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9f1c553e</Name> <!-- mrg mission_victory -->
+   <RawData>05 01 00</RawData> <!-- 05 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f15a1745</Name> <!-- mrg arrive_at_destination -->
+   <RawData>04 01 00</RawData> <!-- 04 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>65211b19</Name> <!-- mrg greet_generic -->
+   <RawData>04 01 00</RawData> <!-- 04 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4808d1be</Name> <!-- mrg get_out_of_car -->
+   <RawData>06 01 00</RawData> <!-- 06 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>467ebacd</Name> <!-- mrg big_air -->
+   <RawData>04 01 00</RawData> <!-- 04 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f15a1745</Name> <!-- mrg arrive_at_destination -->
+   <RawData>04 01 00</RawData> <!-- 04 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>37a2c8e8</Name> <!-- mrg mission_fail -->
+   <RawData>03 01 00</RawData> <!-- 03 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d8d773a7</Name> <!-- mrg knock_over_ped -->
+   <RawData>03 01 00</RawData> <!-- 03 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>55c98d89</Name> <!-- mrg near_miss_ped -->
+   <RawData>04 01 00</RawData> <!-- 04 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2ca26cd8</Name> <!-- mrg player_car_destroyed -->
+   <RawData>04 01 00</RawData> <!-- 04 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9dfa2b4a</Name> <!-- mrg w_hitbyc -->
+   <RawData>06 01 00</RawData> <!-- 06 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c690e252</Name> <!-- mrg crash_generic -->
+   <RawData>04 01 00</RawData> <!-- 04 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a79fa51a</Name> <!-- mrg damage_car -->
+   <RawData>08 01 00</RawData> <!-- 08 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>facb6c2</Name> <!-- mrg hit_by_car -->
+   <RawData>04 01 00</RawData> <!-- 04 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d1941977</Name> <!-- mrg near_hit_by_player -->
+   <RawData>02 01 00</RawData> <!-- 02 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>987dee7</Name> <!-- mrg get_into_car -->
+   <RawData>06 01 00</RawData> <!-- 06 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d5cd14dc</Name> <!-- mrg burnout -->
+   <RawData>07 01 00</RawData> <!-- 07 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ff158393</Name> <!-- mrg car_destroyed -->
+   <RawData>04 01 00</RawData> <!-- 04 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>40b81c13</Name> <!-- mrg ask_for_ride -->
+   <RawData>04 01 00</RawData> <!-- 04 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c690e252</Name> <!-- mrg crash_generic -->
+   <RawData>07 01 00</RawData> <!-- 07 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a79fa51a</Name> <!-- mrg damage_car -->
+   <RawData>03 01 00</RawData> <!-- 03 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5e602684</Name> <!-- mrg crash_generic_driven -->
+   <RawData>04 01 00</RawData> <!-- 04 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>13b5f2eb</Name> <!-- mrg fall -->
+   <RawData>06 01 00</RawData> <!-- 06 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>6da615b7</Name> <!-- mrg new_enemy -->
+   <RawData>07 01 00</RawData> <!-- 07 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>39131f68</Name> <!-- mrg car_hit_ped -->
+   <RawData>06 01 00</RawData> <!-- 06 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2a6282de</Name> <!-- mrg mission_start -->
+   <RawData>05 01 00</RawData> <!-- 05 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>45c5e6f5</Name> <!-- mrg dodge -->
+   <RawData>06 01 00</RawData> <!-- 06 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>55c98d89</Name> <!-- mrg near_miss_ped -->
+   <RawData>06 01 00</RawData> <!-- 06 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2203887b</Name> <!-- mrg activate_world_object -->
+   <RawData>06 01 00</RawData> <!-- 06 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d5cd14dc</Name> <!-- mrg burnout -->
+   <RawData>03 01 00</RawData> <!-- 03 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>15eae784</Name> <!-- mrg vehicle_jump -->
+   <RawData>04 01 00</RawData> <!-- 04 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>72f80765</Name> <!-- mrg car_in_the_way -->
+   <RawData>06 01 00</RawData> <!-- 06 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5e602684</Name> <!-- mrg crash_generic_driven -->
+   <RawData>05 01 00</RawData> <!-- 05 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>98013189</Name> <!-- mrg hit_by_player -->
+   <RawData>08 01 00</RawData> <!-- 08 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>fb4d5610</Name> <!-- frk car_hit_ped -->
+   <RawData>04 02 00</RawData> <!-- 04 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5a5f78f1</Name> <!-- frk hit_by_player -->
+   <RawData>04 02 00</RawData> <!-- 04 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4ceab2a</Name> <!-- frk crash_generic -->
+   <RawData>06 02 00</RawData> <!-- 06 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ade6de5e</Name> <!-- frk ride_reply -->
+   <RawData>0C 02 00</RawData> <!-- 12 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>69e8ea4c</Name> <!-- frk wrong_door -->
+   <RawData>03 02 00</RawData> <!-- 03 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>65c1ec62</Name> <!-- frk damage_car -->
+   <RawData>04 02 00</RawData> <!-- 04 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4285bed9</Name> <!-- frk idle_reply -->
+   <RawData>0C 02 00</RawData> <!-- 12 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9797c4f1</Name> <!-- frk near_miss_ped -->
+   <RawData>04 02 00</RawData> <!-- 04 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>eefc25a0</Name> <!-- frk player_car_destroyed -->
+   <RawData>04 02 00</RawData> <!-- 04 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b0a64e1d</Name> <!-- frk car_in_the_way -->
+   <RawData>05 02 00</RawData> <!-- 05 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>33045e3d</Name> <!-- frk arrive_at_destination -->
+   <RawData>04 02 00</RawData> <!-- 04 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>14b0cbd6</Name> <!-- frk hit_breakable -->
+   <RawData>04 02 00</RawData> <!-- 04 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9fc63bfd</Name> <!-- frk enemy_killed -->
+   <RawData>04 02 00</RawData> <!-- 04 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d7b4aefc</Name> <!-- frk vehicle_jump -->
+   <RawData>06 02 00</RawData> <!-- 06 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>254dc56a</Name> <!-- frk running_out_of_time -->
+   <RawData>04 02 00</RawData> <!-- 04 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>17935da4</Name> <!-- frk burnout -->
+   <RawData>04 02 00</RawData> <!-- 04 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4ceab2a</Name> <!-- frk crash_generic -->
+   <RawData>0E 02 00</RawData> <!-- 14 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>cdf2ffba</Name> <!-- frk hit_by_car -->
+   <RawData>0E 02 00</RawData> <!-- 14 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>13ca500f</Name> <!-- frk near_hit_by_player -->
+   <RawData>04 02 00</RawData> <!-- 04 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e188a314</Name> <!-- moe hit_by_player -->
+   <RawData>08 03 00</RawData> <!-- 08 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f952653c</Name> <!-- moe idle_reply -->
+   <RawData>0F 03 00</RawData> <!-- 15 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7625245f</Name> <!-- moe hit_by_car -->
+   <RawData>0D 03 00</RawData> <!-- 13 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a81d8bea</Name> <!-- moe near_hit_by_player -->
+   <RawData>03 03 00</RawData> <!-- 03 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>da45b3bf</Name> <!-- brt low_on_stamina -->
+   <RawData>08 04 00</RawData> <!-- 08 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>297c06f9</Name> <!-- brt car_hit_ped -->
+   <RawData>07 04 00</RawData> <!-- 07 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4df76b14</Name> <!-- brt enemy_killed -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5a682434</Name> <!-- brt collect_object -->
+   <RawData>0B 04 00</RawData> <!-- 11 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8f734caf</Name> <!-- brt mission_victory -->
+   <RawData>07 04 00</RawData> <!-- 07 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>754e0288</Name> <!-- brt greet_generic -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5867c82f</Name> <!-- brt get_out_of_car -->
+   <RawData>03 04 00</RawData> <!-- 03 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5611a35c</Name> <!-- brt big_air -->
+   <RawData>05 04 00</RawData> <!-- 05 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e1350ed4</Name> <!-- brt arrive_at_destination -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>27cdd179</Name> <!-- brt mission_fail -->
+   <RawData>07 04 00</RawData> <!-- 07 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c8b86a36</Name> <!-- brt knock_over_ped -->
+   <RawData>09 04 00</RawData> <!-- 09 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a2ae4d8b</Name> <!-- brt ask_for_food -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4df76b14</Name> <!-- brt enemy_killed -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8d9532db</Name> <!-- brt w_hitbyc -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f77c9583</Name> <!-- brt running_out_of_time -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b7f0bc8b</Name> <!-- brt damage_car -->
+   <RawData>07 04 00</RawData> <!-- 07 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1fc3af53</Name> <!-- brt hit_by_car -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>326c91ea</Name> <!-- brt activate_world_object -->
+   <RawData>07 04 00</RawData> <!-- 07 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>19e8c776</Name> <!-- brt get_into_car -->
+   <RawData>05 04 00</RawData> <!-- 05 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e7ce2bc6</Name> <!-- brt break_camera -->
+   <RawData>07 04 00</RawData> <!-- 07 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c5a20d4d</Name> <!-- brt burnout -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ef7a9a02</Name> <!-- brt car_destroyed -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f77c9583</Name> <!-- brt running_out_of_time -->
+   <RawData>07 04 00</RawData> <!-- 07 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>aeca341a</Name> <!-- brt race_rankup -->
+   <RawData>05 04 00</RawData> <!-- 05 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>886e2818</Name> <!-- brt hit_by_player -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>297c06f9</Name> <!-- brt car_hit_ped -->
+   <RawData>07 04 00</RawData> <!-- 07 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7fd4623a</Name> <!-- brt springboard -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d6fffbc3</Name> <!-- brt crash_generic -->
+   <RawData>07 04 00</RawData> <!-- 07 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7dc90c26</Name> <!-- brt new_enemy -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>62971ef4</Name> <!-- brt car_in_the_way -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7fd78eb7</Name> <!-- brt ride_reply -->
+   <RawData>0B 04 00</RawData> <!-- 11 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8b0107d4</Name> <!-- brt collect_card -->
+   <RawData>07 04 00</RawData> <!-- 07 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b7f0bc8b</Name> <!-- brt damage_car -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3a0d9b4f</Name> <!-- brt mission_start -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4e0f3f15</Name> <!-- brt crash_generic_driven -->
+   <RawData>09 04 00</RawData> <!-- 09 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3daeb7a</Name> <!-- brt fall -->
+   <RawData>05 04 00</RawData> <!-- 05 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5cdedcc4</Name> <!-- brt w_idle -->
+   <RawData>01 04 00</RawData> <!-- 01 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4e0f3f15</Name> <!-- brt crash_generic_driven -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>aeca341a</Name> <!-- brt race_rankup -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d6fffbc3</Name> <!-- brt crash_generic -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c5a20d4d</Name> <!-- brt burnout -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7d023655</Name> <!-- brt race_rankdown -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c6819b3f</Name> <!-- brt hit_breakable -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>585fe15</Name> <!-- brt vehicle_jump -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>50d70582</Name> <!-- brt ask_for_ride -->
+   <RawData>05 04 00</RawData> <!-- 05 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c6819b3f</Name> <!-- brt hit_breakable -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>bbd9baa5</Name> <!-- brt wrong_door -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>hom</Name>
+   <RawData>00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>mrg</Name>
+   <RawData>00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>frk</Name>
+   <RawData>00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>moe</Name>
+   <RawData>00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>brt</Name>
+   <RawData>00</RawData>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>0</Name>
+   <ContainerHash>simpsons2/hom</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>1</Name>
+   <ContainerHash>simpsons2/mrg</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>2</Name>
+   <ContainerHash>simpsons2/frk</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>3</Name>
+   <ContainerHash>simpsons2/moe</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>4</Name>
+   <ContainerHash>simpsons2/bart</ContainerHash>
+  </Item>
+ </Items>
+</Dat4>
