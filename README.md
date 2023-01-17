@@ -5,10 +5,12 @@ simpsons.
 Sorry for the wonky naming conventions of certain speeches, and how some voicelines are used incorrectly.
 
 ## Speech
-- HOMER - Homer | Unfinished
-- MRG - Marge | Unfinished
-- COLLECT_SOUNDFX - Collect Sound Fx | Finished
-- SIMPSONS2_GAMEPLAY - Gameplay Sound Fx for Simpsons | Unfinished [missing sounds]
+- Bart - Bart
+- Frk - Dr. Frink
+- Hom - Homer
+- Mrg - Marge
+
+
 
 ## Music
 - SUNDAY_DRIVE | Finished
