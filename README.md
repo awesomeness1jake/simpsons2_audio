@@ -27,13 +27,13 @@ Sorry for the wonky naming conventions of certain speeches, and how some voiceli
   #### example - Lua
   ```lua
   voiceNameHash = joaat("homer")
-  speechContextHash = joaat("generic_hi") -- dont include the "_%2d"
+  speechContextHash = joaat("generic_hi") -- dont include the "_%02d"
   speechHashShitIdk = (voiceNameHash ~ speechContextHash); -- in hex (b445c9b3)
   ```
   #### example - CS
   ```cs
   uint voiceNameHash = joaat("homer");
-  uint speechContextHash = joaat("generic_hi"); // dont include the "_%2d"
+  uint speechContextHash = joaat("generic_hi"); // dont include the "_%02d"
   uint speechHashShitIdk = (voiceNameHash ^ speechContextHash); // in hex (b445c9b3)
   ```
 
