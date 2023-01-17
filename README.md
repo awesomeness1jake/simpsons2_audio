@@ -1,16 +1,11 @@
 # simpsons2_audio
-simpsons.
-
-### this is used for the "simpsons_music_player", and was mainly created from testing and having fun while doing so.
-Sorry for the wonky naming conventions of certain speeches, and how some voicelines are used incorrectly.
+This is used for the "simpsons_music_player", and was mainly created from testing and having fun while doing so.
 
 ## Speech
 - Bart - Bart
 - Frk - Dr. Frink
 - Hom - Homer
 - Mrg - Marge
-
-
 
 ## Music
 - SUNDAY_DRIVE | Finished
@@ -19,8 +14,8 @@ Sorry for the wonky naming conventions of certain speeches, and how some voiceli
 # Research
 
   ### Oddities
-  - Speech AWCs had to be done through openIV using flag "DescriptorsInOrder True" without that flag the audio wouldn't play.
-  - The Speech AWCs cannot be opened on Codewalker
+  - The speech AWCs had to be done through OpenIV using flag "DescriptorsInOrder True" without that flag the audio wouldn't play.
+  - The speech AWCs cannot be opened on Codewalker
 
   ### Getting the speech hash thing (idk what this would be called)
   #### I did not find out how the hashing was done. I found this from https://github.com/Parik27/V.Rainbomizer/blob/master/scripts/voice-line-gen.py#L52
