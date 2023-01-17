@@ -2,10 +2,11 @@ fx_version 'bodacious'
 game 'gta5'
 
 files { 
-	"audio/sfx/dlc_sp_sounds/marge_simpson.awc",
-	"audio/sfx/dlc_sp_sounds/homer_simpson.awc",
-	'audio/sfx/dlc_sounds/collect_soundfx.awc',
-	'audio/sfx/dlc_sounds/simpsons2_gameplay.awc',
+	"audio/sfx/simpsons2/bart.awc",
+	"audio/sfx/simpsons2/frk.awc",
+	"audio/sfx/simpsons2/hom.awc",
+	"audio/sfx/simpsons2/moe.awc",
+	"audio/sfx/simpsons2/mrg.awc",
 	
 	'audio/sfx/dlc_sounds/simpsons2_sunday_drive_end_sus1.awc',
 	'audio/sfx/dlc_sounds/simpsons2_sunday_drive_end_sus2.awc',
@@ -24,7 +25,7 @@ files {
 data_file "AUDIO_GAMEDATA" 'audio/config/simpsons2_game.dat'
 data_file "AUDIO_SOUNDDATA" "audio/config/simpsons2_sounds.dat"
 data_file "AUDIO_WAVEPACK" "audio/sfx/dlc_sounds"
-data_file "AUDIO_WAVEPACK" "audio/sfx/dlc_sp_sounds"
+data_file "AUDIO_WAVEPACK" "audio/sfx/simpsons2"
 data_file "AUDIO_SPEECHDATA" "audio/config/simpsons2_speech.dat"
 
 
